@@ -1,0 +1,107 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": false,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fcarlottaugcitalia%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaf2P9Z7FVpTu-t8i6WplOCttJmLQwfc9oPFomy1hXhLiwsYe4q4dBfetPof-w_aem_ObTSw3xJKt567Eins8ZB4g&e=AT2yekkp9601REjNaQw_4MFzr_0pFPgSoSZ-QsnlLbrvUWyhErnT4rT4Hmv2qwwMi4HxpFiLz7ZBCj0msN8oItvx0q3apEy-qnrmerqeXQ",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "",
+                    "url": "https://linktr.ee/carlottaugcitalia",
+                    "creation_source": ""
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": null,
+            "show_text_post_app_badge": false,
+            "username": "carlottaugcitalia",
+            "text_post_new_post_count": null,
+            "pk": "50860435",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/541583240_18521646700044436_502202930255517717_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QE3dqaR3o3iNMsVFDAhgr2zduhb8NnOkvRUb8QdnhvkbodyJlp8CB_yt93gTO_LaHQ&_nc_ohc=kdIhXReggisQ7kNvwFZh2pd&_nc_gid=jXZGSOiS745iXDww7J_rJg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfZvQkqm1qoHrsewrFpM6etP_sNSj3ZR9vyIXL-cljOG3A&oe=68C2653D&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/541583240_18521646700044436_502202930255517717_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QE3dqaR3o3iNMsVFDAhgr2zduhb8NnOkvRUb8QdnhvkbodyJlp8CB_yt93gTO_LaHQ&_nc_ohc=kdIhXReggisQ7kNvwFZh2pd&_nc_gid=jXZGSOiS745iXDww7J_rJg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfYaCVGcIFfLUzk6zi8x98u6I6JX6gvS-GwPRpDXvzi2jA&oe=68C2653D&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 1757187677,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\ud83d\udcf8In 2 anni ho creato +400 video per brand \n     come Amazon,PosteItaliane\n\ud83e\ude77Ho un percorso di formazione che ha aiutato\n+100 ragazze a fatturare +80k \ud83d\udcb8",
+            "full_name": "Carlotta Spinelli | UGC CREATOR & COACH per Aspiranti UGC",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 2,
+            "follower_count": 3945,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": true,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Reel creator",
+            "should_show_category": false,
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fcarlottaugcitalia%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaf2P9Z7FVpTu-t8i6WplOCttJmLQwfc9oPFomy1hXhLiwsYe4q4dBfetPof-w_aem_ObTSw3xJKt567Eins8ZB4g&e=AT2yekkp9601REjNaQw_4MFzr_0pFPgSoSZ-QsnlLbrvUWyhErnT4rT4Hmv2qwwMi4HxpFiLz7ZBCj0msN8oItvx0q3apEy-qnrmerqeXQ",
+            "external_url": "https://linktr.ee/carlottaugcitalia",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "fbid_v2": "17841401333050794",
+            "is_embeds_disabled": false,
+            "is_professional_account": null,
+            "following_count": 6558,
+            "media_count": 717,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null,
+            "id": "50860435"
+        },
+        "viewer": {
+            "user": {
+                "pk": "66446867657",
+                "id": "66446867657",
+                "can_see_organic_insights": false
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1757193596698,
+            "time_at_flush_ms": 1757193596857
+        }
+    },
+    "status": "ok"
+}

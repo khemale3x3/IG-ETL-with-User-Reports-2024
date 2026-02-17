@@ -1,0 +1,157 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": false,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fzent_ugc%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAafIxyxizk85hCwgRWRcIDEURW0Cl-dMczKcaQDSxwnrNpRmUrZr4PPIOXdlOQ_aem_ZIbOzqThtah4naXvSU4zbg&e=AT3tHlz6AKw02XpBeTLT2ccld6O2lk3RmHhBu-84T5BslTWnqdkjsdqPXl7hjpRy8a0uLeBUhAYw7J48F0Gia4fxyQkjjtz0yPg3SQYdMA",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "My Website \ud83c\udf1f",
+                    "url": "https://linktr.ee/zent_ugc",
+                    "creation_source": ""
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fzentugcportfolio.my.canva.site%2Fzentugc%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAadB-ypKcIwk937joWJ_Z3eq3WaskwWq4RMgfChO1BMpR7Yo13D97oL5ozYFKg_aem_nltcCTLjNixHIIGEFgpLQg&e=AT0A-l1pHzV60bMQDl3p3_p-CphQYFwAmVjK_y5mrLThTCMb74fFLTe4kG7VuShg98lN6z7YaXl4MXuYYIflcqmqH1tZ1HqwlL0AjlmuBA",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "My UGC Portfolio \ud83c\udf1f",
+                    "url": "https://zentugcportfolio.my.canva.site/zentugc",
+                    "creation_source": ""
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Finhashop60.wixsite.com%2Fzentugc%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAacJf-e9rvzqiypP0P-K4sEw28OgD95OvOp_YkciIUlFOCjwmN4qEcbKd-1unQ_aem_u1r06TboL-d2ecfZFJPTHA&e=AT2rC8toYqfkeNpWqpSm1KKwLK2UlSkC3xoJwTjDcEf2cc1MqNAb4sGfUNFj57jrRpzPDCsi3u6ZW8EJSEp6zV-F9gB3dZCzrlpreBUWkQ",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "My Website",
+                    "url": "https://inhashop60.wixsite.com/zentugc",
+                    "creation_source": ""
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Ftiktok.com%2F%40inha.shop%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaeHR75M0PzUWvW-gsNeKO4BAVTIW5-toV4F9Cz0BkW0UqfL-Bnwve9keTnF2w_aem_GderT9ZnMvjtUX-Wq0NGCg&e=AT1JRtx7Sa1hT4DgiGwnM0PGknzuRStRI-cjSpz7oV80KphUqYUOYeeKQS8CQyGv0V2XFeZcG8qT2zA3WFAFH89qxuNdJ1HSoJCVcqHeiQ",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "Visit my TikTok account",
+                    "url": "http://tiktok.com/@inha.shop",
+                    "creation_source": ""
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "facebook",
+                    "lynx_url": "",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "Facebook profile",
+                    "url": "",
+                    "creation_source": ""
+                }
+            ],
+            "linked_fb_info": {
+                "linked_fb_page": null,
+                "linked_fb_user": {
+                    "name": "Zent Ugc",
+                    "profile_url": "https://www.facebook.com/profile.php?id=61552298003378"
+                }
+            },
+            "text_post_app_badge_label": "inha__ugc",
+            "show_text_post_app_badge": true,
+            "username": "inha__ugc",
+            "text_post_new_post_count": 0,
+            "pk": "60930240083",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/490507880_17929437963024084_5406499762842899746_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDcuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFPzCie5TdAx_ZEdh8gWt0JVFg1hZhtSzIYTLbpJEM1lMDCx4Tc93yIso5dCkwG72Q&_nc_ohc=xco9OZLWX1UQ7kNvwFJVD84&_nc_gid=X9hqhGxfDOLJTKbKM9DRlA&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfYbnbHzId5NDVKtb2is2vprYp--QfmSaBLhw-XTvbIX3g&oe=68C2904F&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/490507880_17929437963024084_5406499762842899746_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDcuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFPzCie5TdAx_ZEdh8gWt0JVFg1hZhtSzIYTLbpJEM1lMDCx4Tc93yIso5dCkwG72Q&_nc_ohc=xco9OZLWX1UQ7kNvwFJVD84&_nc_gid=X9hqhGxfDOLJTKbKM9DRlA&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfbDsP4MJyUg3hIR-TO1OC1sOVaKolru0ufH0sYY-HEnSg&oe=68C2904F&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 0,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\ud83d\udce9 For PR and Collaborations \u2b07\ufe0f\ninhashop60@gmail.com",
+            "full_name": "inha ugc \u2728",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 1334,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Digital creator",
+            "should_show_category": true,
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fzent_ugc%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAafIxyxizk85hCwgRWRcIDEURW0Cl-dMczKcaQDSxwnrNpRmUrZr4PPIOXdlOQ_aem_ZIbOzqThtah4naXvSU4zbg&e=AT3tHlz6AKw02XpBeTLT2ccld6O2lk3RmHhBu-84T5BslTWnqdkjsdqPXl7hjpRy8a0uLeBUhAYw7J48F0Gia4fxyQkjjtz0yPg3SQYdMA",
+            "external_url": "https://linktr.ee/zent_ugc",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "fbid_v2": "17841460722516280",
+            "is_embeds_disabled": false,
+            "is_professional_account": null,
+            "following_count": 2131,
+            "media_count": 136,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null,
+            "id": "60930240083"
+        },
+        "viewer": {
+            "user": {
+                "pk": "66446867657",
+                "id": "66446867657",
+                "can_see_organic_insights": false
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1757193545663,
+            "time_at_flush_ms": 1757193546081
+        }
+    },
+    "status": "ok"
+}

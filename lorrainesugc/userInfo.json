@@ -1,0 +1,95 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": false,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": null,
+            "show_text_post_app_badge": null,
+            "username": "lorrainesugc",
+            "text_post_new_post_count": null,
+            "pk": "8582072000",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/428192012_924448412640259_654293210672740805_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QH9pJOmReAQ3QDSAzNG7i5QKtjPakVpqnX2LnsIfB8jyP-hsjbrts5E6Le2WuVv9nw&_nc_ohc=s34kgIyM0VYQ7kNvwHLtroV&_nc_gid=jbB08OmSWhA6zKLg7dasAg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfaghxuK4ZUIbH3orvsk1SKbHdpsK9BRIdkopZnNr_H5fQ&oe=68C26CE4&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/428192012_924448412640259_654293210672740805_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QH9pJOmReAQ3QDSAzNG7i5QKtjPakVpqnX2LnsIfB8jyP-hsjbrts5E6Le2WuVv9nw&_nc_ohc=s34kgIyM0VYQ7kNvwHLtroV&_nc_gid=jbB08OmSWhA6zKLg7dasAg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Afbh57-qSYaip_0qZ_M_-V0IjCx5cZArVii9S-yxZEATXQ&oe=68C26CE4&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 0,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\ud83c\udde8\ud83c\udde6 | UGC | lifestyle + beauty\nlet\u2019s work together!\n\ud83d\udc8c lorrainesugc@outlook.com",
+            "full_name": "Lorraine \ud83d\udd4a\ufe0f | UGC Creator",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 2,
+            "follower_count": 859,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": true,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Digital creator",
+            "should_show_category": true,
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": null,
+            "external_url": "",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "fbid_v2": "17841408400022759",
+            "is_embeds_disabled": false,
+            "is_professional_account": null,
+            "following_count": 1125,
+            "media_count": 24,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null,
+            "id": "8582072000"
+        },
+        "viewer": {
+            "user": {
+                "pk": "66446867657",
+                "id": "66446867657",
+                "can_see_organic_insights": false
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1757193587628,
+            "time_at_flush_ms": 1757193587955
+        }
+    },
+    "status": "ok"
+}

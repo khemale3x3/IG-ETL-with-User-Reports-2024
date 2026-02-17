@@ -1,0 +1,95 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": false,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": "creativemind_ugc",
+            "show_text_post_app_badge": true,
+            "username": "creativemind_ugc",
+            "text_post_new_post_count": 0,
+            "pk": "64267825154",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/439906493_7236963489747636_1816777843913674627_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHItS9X_R34k5XqgNdlzmJDncv31jIpCGCYKmOKqWqDd7lD6QkanbUv5oJPVCUwKPk&_nc_ohc=N2VgUw4mj5gQ7kNvwES3KyU&_nc_gid=TP4lLaHk4QHZ1-uuBqz1Aw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfZBTw1tofedOHWskBlhJq5EA_g9K5GdDnlGvH6WzQTgfA&oe=68C2684F&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/439906493_7236963489747636_1816777843913674627_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHItS9X_R34k5XqgNdlzmJDncv31jIpCGCYKmOKqWqDd7lD6QkanbUv5oJPVCUwKPk&_nc_ohc=N2VgUw4mj5gQ7kNvwES3KyU&_nc_gid=TP4lLaHk4QHZ1-uuBqz1Aw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfaWn93y9LRx0k4udWly9-xlmAOO0C1T8ZkC3V09XgmIVA&oe=68C2684F&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 0,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\ud83e\udea9Creating converting content \n\u2728Co-stars: 10 year old \ud83d\udc67\ud83c\udffb and 1 year old \ud83d\udc66 \n\ud83d\udce7Creativemind.ugc@gmail.com",
+            "full_name": "Yana Zenkova - UGC creator \ud83c\udde9\ud83c\uddf0",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 2,
+            "follower_count": 512,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": true,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Digital creator",
+            "should_show_category": false,
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": null,
+            "external_url": "",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "fbid_v2": "17841464114643478",
+            "is_embeds_disabled": false,
+            "is_professional_account": null,
+            "following_count": 1434,
+            "media_count": 22,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null,
+            "id": "64267825154"
+        },
+        "viewer": {
+            "user": {
+                "pk": "66446867657",
+                "id": "66446867657",
+                "can_see_organic_insights": false
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1757193408594,
+            "time_at_flush_ms": 1757193409332
+        }
+    },
+    "status": "ok"
+}

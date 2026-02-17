@@ -1,0 +1,118 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": false,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fmartinsdasha.my.canva.site%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaeCXQbCBCUPcW9FK24Rv-akBS02LrP2zKhB-sEuKn9Bmonf4ZpVOkp-O-dZTg_aem_-yObuEW5-EZzF6Va2I9Fdg&e=AT1XPrFdjH2-0xVtAtUkan5w6DLLTeARy6tTgHZAnoQEWe7Af3P5o0AYbqWaG5oq9NgM-BhE7Z0gHk_yCLognMVfhSqeQcFjhhxOEyEaIg",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "portfolio",
+                    "url": "https://martinsdasha.my.canva.site/",
+                    "creation_source": ""
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fwww.tiktok.com%2F%40martinsdashaugc%3F_t%3D8oGJ7XIiTJp%26_r%3D1%26fbclid%3DPAZXh0bgNhZW0CMTEAAacbTjXu5i3BJyuzGo2zaqYW9V7pHqe2OKWPNRLrCkm0hXQDxCIGVAFh0nIBdg_aem_Kpq96XF0hYvBkxsrfXQu0Q&e=AT1hNEG9jY7r-4PlKOnEOgD3eNprQAWjj_2XjKDO7vmNuJpElCYw_FYOMiURJxaVIxzTI-zSor50PUDf2aLAzIRaR3WZchBKHgAYuZKNxA",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "tiktok",
+                    "url": "https://www.tiktok.com/@martinsdashaugc?_t=8oGJ7XIiTJp&_r=1",
+                    "creation_source": ""
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": null,
+            "show_text_post_app_badge": null,
+            "username": "martinsdashaugc",
+            "text_post_new_post_count": null,
+            "pk": "67655363430",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/452518327_1568282850764400_4826489939945855793_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHrgRhEmazMnQ662A3eYIYctipwd3M30ejhn2j_LaxNbt2i0phGoh0bLC2gbm-wwb8&_nc_ohc=j9mxmOOozVcQ7kNvwFukJNL&_nc_gid=VZWaDtCn_S_GNGl9_YLguA&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfYZs6QwWiHoZZwgsHxOaSX6x__7UQH8TrwOjfnNmZu-Zw&oe=68C287F1&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/452518327_1568282850764400_4826489939945855793_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHrgRhEmazMnQ662A3eYIYctipwd3M30ejhn2j_LaxNbt2i0phGoh0bLC2gbm-wwb8&_nc_ohc=j9mxmOOozVcQ7kNvwFukJNL&_nc_gid=VZWaDtCn_S_GNGl9_YLguA&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfZ41_cqprVx6rXUHB0JMRYlNQn_0xAoH2A8clqOd6z8YA&oe=68C287F1&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 0,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "UGC creator couple, turning viewers into buyers \ud83e\udd1d\ud83e\udd1d\u2709\ufe0f martindasha.ugc@gmail.com",
+            "full_name": "Martins&Dasha | UGC",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 2,
+            "follower_count": 190,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": true,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Digital creator",
+            "should_show_category": false,
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fmartinsdasha.my.canva.site%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaeCXQbCBCUPcW9FK24Rv-akBS02LrP2zKhB-sEuKn9Bmonf4ZpVOkp-O-dZTg_aem_-yObuEW5-EZzF6Va2I9Fdg&e=AT1XPrFdjH2-0xVtAtUkan5w6DLLTeARy6tTgHZAnoQEWe7Af3P5o0AYbqWaG5oq9NgM-BhE7Z0gHk_yCLognMVfhSqeQcFjhhxOEyEaIg",
+            "external_url": "https://martinsdasha.my.canva.site/",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "fbid_v2": "17841467542926920",
+            "is_embeds_disabled": false,
+            "is_professional_account": null,
+            "following_count": 645,
+            "media_count": 29,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null,
+            "id": "67655363430"
+        },
+        "viewer": {
+            "user": {
+                "pk": "66446867657",
+                "id": "66446867657",
+                "can_see_organic_insights": false
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1757193529588,
+            "time_at_flush_ms": 1757193530089
+        }
+    },
+    "status": "ok"
+}

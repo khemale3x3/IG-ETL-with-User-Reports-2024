@@ -1,0 +1,118 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": false,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fwww.tiktok.com%2F%40ugccreatortamilah%3F_t%3D8mLD0ntSMin%26_r%3D1%26fbclid%3DPAZXh0bgNhZW0CMTEAAad4Jc51K6RLF-M1BAkOxXXjJRUgkJPydkCumlC6a8dBowpL4A-rDHvxBGTBFw_aem_ouTkYF4keGM9m0tbuXKFhQ&e=AT1eBB38rp_1Aa1GvDF6f3tiLmWeMzce1KgOF1_ZCSxpjPPp-MKKNlJ-aJcHdTGoZqAtbdZlSU7Pvf6II2B8QZLbb27hYAyz1ZBeKF3cfA",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "TikTok",
+                    "url": "https://www.tiktok.com/@ugccreatortamilah?_t=8mLD0ntSMin&_r=1",
+                    "creation_source": ""
+                },
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fhalimat-ibrahim-portfolio.my.canva.site%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAadoD-WVge__9fUbu-5Z3RErmlAyw_u6j4RgBl067REDieSEuVwh255s9EBk3w_aem_tqFS1q1i82y-mgseuRRaqg&e=AT3PWFTQNWKkEQGlgrlECvdKgho1hg_g5OX-mJL3cdSdbomqS7rNHRsKOMMckSY-jnxwy-ylYvGd7mb3tTrQs23FG8yT03ARSmjuzAXGtA",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "Portfolio",
+                    "url": "https://halimat-ibrahim-portfolio.my.canva.site/",
+                    "creation_source": ""
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": "tamilahugccreator",
+            "show_text_post_app_badge": true,
+            "username": "tamilahugccreator",
+            "text_post_new_post_count": 1,
+            "pk": "66730639718",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/501199860_17894487075231719_5935279123976373212_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QGg3l_Gon3J8cOgbRWAbDixAO66YtH7XXJlxm2gJ3Urf_SGjfjzEVIqkE5lID4FyAs&_nc_ohc=7eHadurNAnsQ7kNvwGVdmIC&_nc_gid=LevGoQGaUajArZg4cgLhaA&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Afb9_NXq0hFnJE_RGhMuR9RwBOI_ikn7_KYDCFb-1wUT-Q&oe=68C27FC1&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/501199860_17894487075231719_5935279123976373212_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QGg3l_Gon3J8cOgbRWAbDixAO66YtH7XXJlxm2gJ3Urf_SGjfjzEVIqkE5lID4FyAs&_nc_ohc=7eHadurNAnsQ7kNvwGVdmIC&_nc_gid=LevGoQGaUajArZg4cgLhaA&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Afb7sgioJ8DDqGjficUn36M8MxwaAWdSfM6wgNetaEdUnQ&oe=68C27FC1&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 0,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "PAID COLLAB ONLY                               \ud83d\udc8cugcreviewcreatortamilah@gmail.com      Let\u2019s Create  magic\ud83e\udef6",
+            "full_name": "Halimat Ibrahim | Ugc Creator",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 1265,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Beauty, cosmetic & personal care",
+            "should_show_category": true,
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fwww.tiktok.com%2F%40ugccreatortamilah%3F_t%3D8mLD0ntSMin%26_r%3D1%26fbclid%3DPAZXh0bgNhZW0CMTEAAad4Jc51K6RLF-M1BAkOxXXjJRUgkJPydkCumlC6a8dBowpL4A-rDHvxBGTBFw_aem_ouTkYF4keGM9m0tbuXKFhQ&e=AT1eBB38rp_1Aa1GvDF6f3tiLmWeMzce1KgOF1_ZCSxpjPPp-MKKNlJ-aJcHdTGoZqAtbdZlSU7Pvf6II2B8QZLbb27hYAyz1ZBeKF3cfA",
+            "external_url": "https://www.tiktok.com/@ugccreatortamilah?_t=8mLD0ntSMin&_r=1",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "fbid_v2": "17841466951541329",
+            "is_embeds_disabled": false,
+            "is_professional_account": null,
+            "following_count": 346,
+            "media_count": 184,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null,
+            "id": "66730639718"
+        },
+        "viewer": {
+            "user": {
+                "pk": "66446867657",
+                "id": "66446867657",
+                "can_see_organic_insights": false
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1757193467480,
+            "time_at_flush_ms": 1757193467780
+        }
+    },
+    "status": "ok"
+}

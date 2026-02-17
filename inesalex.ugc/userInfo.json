@@ -1,0 +1,107 @@
+{
+    "data": {
+        "user": {
+            "friendship_status": {
+                "following": false,
+                "blocking": false,
+                "is_feed_favorite": false,
+                "outgoing_request": false,
+                "followed_by": false,
+                "incoming_request": false,
+                "is_restricted": false,
+                "is_bestie": false,
+                "muting": false,
+                "is_muting_reel": false
+            },
+            "gating": null,
+            "is_memorialized": false,
+            "is_private": false,
+            "has_story_archive": null,
+            "is_coppa_enforced": false,
+            "supervision_info": null,
+            "is_regulated_c18": false,
+            "regulated_news_in_locations": [],
+            "bio_links": [
+                {
+                    "image_url": "",
+                    "is_pinned": false,
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Finesalex.ugc%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaeGmbbq8zWQyPQG4lZ2OpvwoQOCf9HzUlKb6lovXamto5DqNm4hz73RTz92ww_aem_Bfqd5AOw1cQkBYBOWXA04Q&e=AT2z4U7xkYhJH7Ky663ka0uyUKXFOHXxe2xJubJErgwJJ1xfD35AG2IjZ53PBHNQhWRHWnM4Dtganth56PAU7OwfRbH2aZR0MiUwVVg_qA",
+                    "media_accent_color_hex": "",
+                    "media_type": "none",
+                    "title": "PORTAFOLIOS \ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbb",
+                    "url": "https://linktr.ee/inesalex.ugc",
+                    "creation_source": ""
+                }
+            ],
+            "linked_fb_info": null,
+            "text_post_app_badge_label": null,
+            "show_text_post_app_badge": null,
+            "username": "inesalex.ugc",
+            "text_post_new_post_count": null,
+            "pk": "69745848597",
+            "live_broadcast_visibility": null,
+            "live_broadcast_id": null,
+            "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/462755363_930000125613366_5771651777504868750_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QHMC5M-InJVrfzH72BOS0kW0CyFyZck0qri2wHywMJO53XfoNeCiAnImKswj9iSHAY&_nc_ohc=4i_amnvS1twQ7kNvwHnU4EZ&_nc_gid=Q4AUfWZL3UDtK5DrSadrMg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfanOcSHX6u8weXlI8GF_eRRXsZLBTUDozT1W_rT5pdmiQ&oe=68C28827&_nc_sid=7d3ac5",
+            "hd_profile_pic_url_info": {
+                "url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/462755363_930000125613366_5771651777504868750_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QHMC5M-InJVrfzH72BOS0kW0CyFyZck0qri2wHywMJO53XfoNeCiAnImKswj9iSHAY&_nc_ohc=4i_amnvS1twQ7kNvwHnU4EZ&_nc_gid=Q4AUfWZL3UDtK5DrSadrMg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfYrUD2xx8-raswJoolyQHz-dnaWkPcnyd4yHmaKfFVlrA&oe=68C28827&_nc_sid=7d3ac5"
+            },
+            "is_unpublished": false,
+            "latest_reel_media": 0,
+            "has_profile_pic": null,
+            "profile_pic_genai_tool_info": [],
+            "biography": "\ud83c\udf0d| The first UGC couple in Spain and Portugal \n\ud83d\udccd| Barcelona - Porto\n\ud83e\udd1d\ud83c\udffc| 40 brands \n\ud83d\udcc8| We grow your business with our creativity",
+            "full_name": "Alex & In\u00eas | UGC",
+            "is_verified": false,
+            "show_account_transparency_details": true,
+            "account_type": 3,
+            "follower_count": 330,
+            "mutual_followers_count": 0,
+            "profile_context_links_with_user_ids": [],
+            "profile_context_facepile_users": [],
+            "address_street": "",
+            "city_name": "",
+            "is_business": false,
+            "zip": "",
+            "biography_with_entities": {
+                "entities": []
+            },
+            "category": "Digital creator",
+            "should_show_category": true,
+            "account_badges": [],
+            "ai_agent_type": null,
+            "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Finesalex.ugc%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaeGmbbq8zWQyPQG4lZ2OpvwoQOCf9HzUlKb6lovXamto5DqNm4hz73RTz92ww_aem_Bfqd5AOw1cQkBYBOWXA04Q&e=AT2z4U7xkYhJH7Ky663ka0uyUKXFOHXxe2xJubJErgwJJ1xfD35AG2IjZ53PBHNQhWRHWnM4Dtganth56PAU7OwfRbH2aZR0MiUwVVg_qA",
+            "external_url": "https://linktr.ee/inesalex.ugc",
+            "pronouns": [],
+            "transparency_label": null,
+            "transparency_product": null,
+            "hide_creator_marketplace_badge": false,
+            "has_chaining": true,
+            "remove_message_entrypoint": false,
+            "fbid_v2": "17841469617928231",
+            "is_embeds_disabled": false,
+            "is_professional_account": null,
+            "following_count": 247,
+            "media_count": 21,
+            "total_clips_count": 1,
+            "latest_besties_reel_media": 0,
+            "reel_media_seen_timestamp": null,
+            "id": "69745848597"
+        },
+        "viewer": {
+            "user": {
+                "pk": "66446867657",
+                "id": "66446867657",
+                "can_see_organic_insights": false
+            }
+        }
+    },
+    "extensions": {
+        "is_final": true,
+        "server_metadata": {
+            "request_start_time_ms": 1757193470183,
+            "time_at_flush_ms": 1757193470572
+        }
+    },
+    "status": "ok"
+}
