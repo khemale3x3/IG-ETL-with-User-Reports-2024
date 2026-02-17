@@ -17,7 +17,7 @@ import queue
 from tqdm import tqdm
 import concurrent.futures
 
-SESSION_ID = "66446867657%3ASh8TPx5ZHpuYrL%3A6%3AAYdNfoMlpW3EtzFusrAv9LwyCW5YTb9H6uo8xoQTSeY"
+SESSION_ID = ""
 TARGET_QUERIES = {
     "profile": "user",
     "timeline": "xdt_api__v1__feed__user_timeline_graphql_connection"
